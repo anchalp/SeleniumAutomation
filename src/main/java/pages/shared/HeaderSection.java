@@ -4,9 +4,7 @@ import helper.Browser;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-/**
- * Created by opantsjoha on 02/07/2017.
- */
+
 public class HeaderSection extends Element {
 
     public HeaderSection(Browser browser) {

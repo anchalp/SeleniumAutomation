@@ -7,9 +7,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-/**
- * Created by opantsjoha on 02/07/2017.
- */
 public class Element {
 
     public Element(Browser browser) {
